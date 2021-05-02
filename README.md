@@ -8,8 +8,8 @@ Deploy on Varcel
 
 <br/>
 
-<img alt="marmite recipe single recipe"  src="./screenhoots/marmite-recipe-single-page.png"/>
+<img alt="marmite recipe single recipe"  src="./screenhots/marmite-recipe-single-page.png"/>
 
 CMS - Contentful:
-<img alt="marmite recipe single recipe"  src="./screenhoots/marmite-contentful.png"/>
-<img alt="marmite recipe single recipe"  src="./screenhoots/marmite-contentful-2.png"/>
+<img alt="marmite recipe single recipe"  src="./screenhots/marmite-contentful.png"/>
+<img alt="marmite recipe single recipe"  src="./screenhots/marmite-contentful-2.png"/>
