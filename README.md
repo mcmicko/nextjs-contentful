@@ -1,9 +1,15 @@
-This is the Next.js starter site (and course files) for the Next.js & Contentful tutorial by the Net Ninja.
+Build website application with NEXT.JS with headless CMS called Contentful
 
-## Getting Started
+Along the way we'll learn about fallback pages, incremental static regeneration & other next.js features.
 
-To use the starter project, run the following in a terminal:
+Deploy on Varcel
 
-```bash
-npx create-next-app [your-site-name] -e https://github.com/iamshaunjp/next-contentful/tree/lesson-1-starter-site
-```
+<img alt="marmite recipe" src="./screenshots/marmite-recipe.png" />
+
+<br/>
+
+<img alt="marmite recipe single recipe"  src="./screenhoots/marmite-recipe-single-page.png"/>
+
+CMS - Contentful:
+<img alt="marmite recipe single recipe"  src="./screenhoots/marmite-contentful.png"/>
+<img alt="marmite recipe single recipe"  src="./screenhoots/marmite-contentful-2.png"/>
