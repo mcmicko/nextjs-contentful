@@ -11,5 +11,4 @@ Deploy on Varcel
 <img alt="marmite recipe single recipe"  src="./screenshots/marmite-recipe-single-page.png"/>
 
 CMS - Contentful:
-<img alt="marmite recipe single recipe"  src="./screenshots/marmite-contentful.png"/>
-<img alt="marmite recipe single recipe"  src="./screenshots/marmite-contentful-2.png"/>
+<img alt="marmite recipe single recipe"  src="./screenshots/contentful.gif"/>
