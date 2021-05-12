@@ -8,7 +8,5 @@ Deploy on Varcel
 
 <br/>
 
-<img alt="marmite recipe single recipe"  src="./screenshots/marmite-recipe-single-page.png"/>
-
 CMS - Contentful:
 <img alt="marmite recipe single recipe"  src="./screenshots/contentful.gif"/>
